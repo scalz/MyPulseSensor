@@ -38,7 +38,7 @@ SMD version :
 
 Through hole version :
 
-<img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/MyMultisensors_bottom.jpg" alt="pulse sensor through hole"> 
+<img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/PulseSensorTH.png" alt="pulse sensor through hole"> 
 
 PCB :
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/v1_parts.jpg" alt="pulse sensor pcb"> 
@@ -52,11 +52,10 @@ Assembled, Bottom photoresistor view :
 ###General specs
 ------
 
-<img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/schematic.png" alt="schematic"> 
+PCB Size | diam. 18mm |
 
-|Specs|  |
-|---|---|---|
-| PCB Size | diam. 18mm |
+Schematic
+<img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/schematic.png" alt="schematic"> 
 
 
 |Pinout|  |
