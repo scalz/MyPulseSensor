@@ -1,0 +1,19 @@
+March. 12 2017 (Scalz)
+  MyPulseSensor Revision 1.0
+	
+	A simple, cheap and low power sensor which can be used for counting power meters blinking led pulses. PCB size is 18mm.
+	
+	Features:
+	
+	
+		
+Dec. 4 2016 (Scalz):
+    MyMultisensors Revision 1
+	
+    Features:
+		- PCB size is 18mm 
+		
+		
+    Known issues: 
+	  - Not for the moment, except for >100hz freq
+
