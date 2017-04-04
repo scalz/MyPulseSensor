@@ -47,7 +47,7 @@ I've done two pcb versions that you can order here in case you want to play with
 **Assembled, Bottom photoresistor view**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/v1_assembled_photores_view.jpg" alt="pulse sensor bottom view">
 
-##General specs
+## General specs
 ------
 
 PCB Size : diam. 18mm
@@ -56,12 +56,13 @@ PCB Size : diam. 18mm
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/schematic.png" alt="schematic"> 
 
 
-|Pinout|  |
-|---|---|---|
-| VCC | Connect to VCC of your board|
-| GND |  Connect to GND|
-| PULSE | Connect to an IRQ pin on your board|
-| SMD Jumper | Shunt the jumper by soldering, if you need the led indicator (will use a bit more power, tweak the resistor|
+###### Pinout
+
+- VCC : Connect to VCC of your board
+- GND : Connect to GND
+- PULSE : Connect to an IRQ pin on your board
+
+An SMD Jumper is also available. Shunt it by soldering, if you need the led indicator (will use a bit more power, tweak the resistor|
 
 
 To use the board, that's easy:
@@ -74,11 +75,11 @@ I don't really need it, or maybe in future, because where I live there are other
 Enjoy :)
 
 
-##Known issues
+## Known issues
 ------ 
 
 
-##Donations
+## Donations
 ------
 
 I'm trying to make opensource projects. I do this for free and sharing spirit. I don't do ads etc..
@@ -96,7 +97,7 @@ Or pay me a protein smoothie if you see me! oh well, a beer is ok too :)
 Always special thanks to:
 - Mysensors Team for its great work
 
-###Links, reference and license
+## Links, reference and license
 ------
 - https://www.openhardware.io/view/352/MyPulse-Sensor
 
