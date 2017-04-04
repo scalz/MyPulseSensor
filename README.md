@@ -32,29 +32,27 @@ I've done two pcb versions that you can order here in case you want to play with
 - Through hole for those who are thinking i'm boring with my SMD : https://PCBs.io/share/zvVP1
 
 
-SMD version :
-
+**SMD version**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/pulse_sensor.png" alt="pulse sensor smd"> 
 
-Through hole version :
-
+**Through hole version**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/PulseSensorTH.png" alt="pulse sensor through hole"> 
 
-PCB :
+**PCB**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/v1_parts.jpg" alt="pulse sensor pcb"> 
 
-Assembled, Top led view :
+**Assembled, Top led view**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/v1_assembled_ledindicator_view.jpg" alt="pulse sensor top view">
 
-Assembled, Bottom photoresistor view :
+**Assembled, Bottom photoresistor view**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/v1_assembled_photores_view.jpg" alt="pulse sensor bottom view">
 
-###General specs
+##General specs
 ------
 
-PCB Size | diam. 18mm |
+PCB Size : diam. 18mm
 
-Schematic
+**Schematic**
 <img src="https://raw.githubusercontent.com/scalz/MyPulseSensor/master/Img/schematic.png" alt="schematic"> 
 
 
@@ -76,11 +74,11 @@ I don't really need it, or maybe in future, because where I live there are other
 Enjoy :)
 
 
-###Known issues
+##Known issues
 ------ 
 
 
-###Donations
+##Donations
 ------
 
 I'm trying to make opensource projects. I do this for free and sharing spirit. I don't do ads etc..
